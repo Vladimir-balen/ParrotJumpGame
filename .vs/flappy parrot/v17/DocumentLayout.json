@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Unity\\Unity projects\\flappy parrot\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9FD65CB7-FD41-71B5-39C0-CFC83AAC6D6A}|Assembly-CSharp.csproj|d:\\unity\\unity projects\\flappy parrot\\assets\\scripts\\distruction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FD65CB7-FD41-71B5-39C0-CFC83AAC6D6A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\distruction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FD65CB7-FD41-71B5-39C0-CFC83AAC6D6A}|Assembly-CSharp.csproj|d:\\unity\\unity projects\\flappy parrot\\assets\\scripts\\pipespawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FD65CB7-FD41-71B5-39C0-CFC83AAC6D6A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pipespawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FD65CB7-FD41-71B5-39C0-CFC83AAC6D6A}|Assembly-CSharp.csproj|d:\\unity\\unity projects\\flappy parrot\\assets\\scripts\\pipemover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FD65CB7-FD41-71B5-39C0-CFC83AAC6D6A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pipemover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FD65CB7-FD41-71B5-39C0-CFC83AAC6D6A}|Assembly-CSharp.csproj|D:\\Unity\\Unity projects\\flappy parrot\\assets\\scripts\\birdcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FD65CB7-FD41-71B5-39C0-CFC83AAC6D6A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\birdcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Distruction.cs",
+              "DocumentMoniker": "D:\\Unity\\Unity projects\\flappy parrot\\Assets\\Scripts\\Distruction.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Distruction.cs",
+              "ToolTip": "D:\\Unity\\Unity projects\\flappy parrot\\Assets\\Scripts\\Distruction.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Distruction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T18:01:16.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PipeMover.cs",
+              "DocumentMoniker": "D:\\Unity\\Unity projects\\flappy parrot\\Assets\\Scripts\\PipeMover.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PipeMover.cs",
+              "ToolTip": "D:\\Unity\\Unity projects\\flappy parrot\\Assets\\Scripts\\PipeMover.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PipeMover.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T17:30:21.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PipeSpawner.cs",
+              "DocumentMoniker": "D:\\Unity\\Unity projects\\flappy parrot\\Assets\\Scripts\\PipeSpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PipeSpawner.cs",
+              "ToolTip": "D:\\Unity\\Unity projects\\flappy parrot\\Assets\\Scripts\\PipeSpawner.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PipeSpawner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T17:23:55.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BirdControl.cs",
+              "DocumentMoniker": "D:\\Unity\\Unity projects\\flappy parrot\\Assets\\Scripts\\BirdControl.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BirdControl.cs",
+              "ToolTip": "D:\\Unity\\Unity projects\\flappy parrot\\Assets\\Scripts\\BirdControl.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BirdControl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T17:23:55.804Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

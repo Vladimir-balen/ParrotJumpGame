@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Unity\\Unity projects\\flappy parrotdone\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BC6BE8D1-5E19-F083-9BAC-6B63D7D2C29A}|Assembly-CSharp.csproj|d:\\unity\\unity projects\\flappy parrotdone\\assets\\scripts\\distruction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC6BE8D1-5E19-F083-9BAC-6B63D7D2C29A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\distruction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC6BE8D1-5E19-F083-9BAC-6B63D7D2C29A}|Assembly-CSharp.csproj|d:\\unity\\unity projects\\flappy parrotdone\\assets\\scripts\\knifecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC6BE8D1-5E19-F083-9BAC-6B63D7D2C29A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\knifecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC6BE8D1-5E19-F083-9BAC-6B63D7D2C29A}|Assembly-CSharp.csproj|d:\\unity\\unity projects\\flappy parrotdone\\assets\\scripts\\knifethrower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC6BE8D1-5E19-F083-9BAC-6B63D7D2C29A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\knifethrower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC6BE8D1-5E19-F083-9BAC-6B63D7D2C29A}|Assembly-CSharp.csproj|d:\\unity\\unity projects\\flappy parrotdone\\assets\\scripts\\scripttodelete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC6BE8D1-5E19-F083-9BAC-6B63D7D2C29A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scripttodelete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Distruction.cs",
+              "DocumentMoniker": "D:\\Unity\\Unity projects\\flappy parrotdone\\Assets\\Scripts\\Distruction.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Distruction.cs",
+              "ToolTip": "D:\\Unity\\Unity projects\\flappy parrotdone\\Assets\\Scripts\\Distruction.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Distruction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T11:35:00.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "KnifeController.cs",
+              "DocumentMoniker": "D:\\Unity\\Unity projects\\flappy parrotdone\\Assets\\Scripts\\KnifeController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\KnifeController.cs",
+              "ToolTip": "D:\\Unity\\Unity projects\\flappy parrotdone\\Assets\\Scripts\\KnifeController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\KnifeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T09:17:29.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "knifeThrower.cs",
+              "DocumentMoniker": "D:\\Unity\\Unity projects\\flappy parrotdone\\Assets\\Scripts\\knifeThrower.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\knifeThrower.cs",
+              "ToolTip": "D:\\Unity\\Unity projects\\flappy parrotdone\\Assets\\Scripts\\knifeThrower.cs",
+              "RelativeToolTip": "Assets\\Scripts\\knifeThrower.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T09:16:34.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ScriptToDelete.cs",
+              "DocumentMoniker": "D:\\Unity\\Unity projects\\flappy parrotdone\\Assets\\Scripts\\ScriptToDelete.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ScriptToDelete.cs",
+              "ToolTip": "D:\\Unity\\Unity projects\\flappy parrotdone\\Assets\\Scripts\\ScriptToDelete.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ScriptToDelete.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T16:14:01.764Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
